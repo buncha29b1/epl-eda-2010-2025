@@ -1,0 +1,27 @@
+# --- Python / Jupyter ---
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.coverage
+.cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / IDE
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local secrets / config
+.env
