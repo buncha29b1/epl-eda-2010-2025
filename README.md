@@ -88,4 +88,9 @@ This regenerates `EPL_DA.html` with fresh outputs, using the frozen environment.
 
 ## 📚 References
 
+*(See the References section in the PDF report for full lists of references and data sources.)*
 
+---
+
+## 📬 Contact
+- Khoi Van: van_k1@denison.edu
