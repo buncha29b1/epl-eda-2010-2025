@@ -93,4 +93,5 @@ This regenerates `EPL_DA.html` with fresh outputs, using the frozen environment.
 ---
 
 ## 📬 Contact
+For inquiries, feedback, or collaboration, please contact:
 - Khoi Van: van_k1@denison.edu
