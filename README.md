@@ -75,7 +75,7 @@ This regenerates `EPL_DA.html` with fresh outputs, using the frozen environment.
 
 ---
 
-## 📈 Key Findings (high level)
+## 📈 Key Findings
 
 - Home advantage persists, though it narrowed during pandemic-affected seasons before rebounding.
 - Scoring increased in the early 2020s, with a jump around 2023–24 and some reversion afterward.
