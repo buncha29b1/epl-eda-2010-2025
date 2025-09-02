@@ -77,12 +77,8 @@ This regenerates `EPL_DA.html` with fresh outputs, using the frozen environment.
 
 📈 Key Findings (high level)
 
-Home advantage persists, though it narrowed during pandemic-affected seasons before rebounding.
-
-Scoring increased in the early 2020s, with a jump around 2023–24 and some reversion afterward.
-
-Home teams outscore away teams on average; the gap varies by season.
-
-Team quality matters: top-5 clubs show stronger home and away performance than bottom-5 clubs.
-
+- Home advantage persists, though it narrowed during pandemic-affected seasons before rebounding.
+- Scoring increased in the early 2020s, with a jump around 2023–24 and some reversion afterward.
+- Home teams outscore away teams on average; the gap varies by season.
+- Team quality matters: top-5 clubs show stronger home and away performance than bottom-5 clubs.
 (See the notebook and PDF for figures and details.)
